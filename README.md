@@ -1,6 +1,6 @@
-# Project-6--Auto-Layout
-Auto layout app
-https://www.hackingwithswift.com/read/6/3/auto-layout-in-code-addconstraints-with-visual-format-language
+# Auto-Layout Haking with swift
+Get to grips with Auto Layout using practical examples and code.
+
 
 ## Topics
 
